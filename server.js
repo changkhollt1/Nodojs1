@@ -1,3 +1,4 @@
+//update ngay 13/06
 //khai bao moudule http
 var http = require('http');
 // Khai bao module fs
@@ -28,3 +29,4 @@ http.createServer(function (req, res) {
 }).listen(8000);
 
 // console.log(fs)
+
